@@ -1,0 +1,13 @@
+name: solar-radiation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - pandas
+  - numpy
+  - scikit-learn
+  - statsmodels
+  - seaborn
